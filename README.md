@@ -1,4 +1,4 @@
-# boyner-cucumber
+# Java WebUI Tests Boyner
 
 Merhaba, bu projede Cucumber framework ile Page Object Pattern yapısına bağlı kalınarak [boyner.com.tr](https://boyner.com.tr) websitesinin testleri yapılmıştır.
  
